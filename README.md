@@ -4,7 +4,7 @@ C++ ilustração de código para CRUD (Create, Read, Update, Delete) com MySQL b
 
 ## Requisitos de sistema
 
-Plataforma Linux com g++ e MySQL instalados para teste de banco de dados. Para Debian/Ubuntu, você pode instalar mysql-server and mysql-client.
+Plataforma Linux com g++ e MySQL instalados para teste de banco de dados. Para Debian/Ubuntu, você pode instalar mysql-server e mysql-client.
 
 	$ sudo apt-get install mysql-server mysql-client
 
